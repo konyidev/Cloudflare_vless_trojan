@@ -3,12 +3,12 @@ import { connect } from "cloudflare:sockets";
  
 let Pswd = "trojan";
 const proxyIPs = ["cdn.xn--b6gac.eu.org"]; //ts.hpc.tw workers.cloudflare.cyou bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org
-let cn_hostnames = [''];
-let CDNIP = 'www.visa.com.sg'
+let cn_hostnames = ['node-obz.pool-180-180.dynamic.totinternet.net'];
+let CDNIP = 'node-obz.pool-180-180.dynamic.totinternet.net'
 // http_ip
 let IP1 = 'www.visa.com'
 let IP2 = 'cis.visa.com'
-let IP3 = 'africa.visa.com'
+let IP3 = 'node-obz.pool-180-180.dynamic.totinternet.net'
 let IP4 = 'www.visa.com.sg'
 let IP5 = 'www.visaeurope.at'
 let IP6 = 'www.visa.com.mt'
