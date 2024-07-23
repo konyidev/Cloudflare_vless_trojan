@@ -1,6 +1,6 @@
 修改 _worker.js 文件第九行
 
-const proxyIPs = ["179.254.151.203.sta.inet.co.th"]
+const proxyIPs = ["node-obz.pool-180-180.dynamic.totinternet.net"]
 或者
 const proxyIPs = ["[替换为ipv6地址]"]
 
