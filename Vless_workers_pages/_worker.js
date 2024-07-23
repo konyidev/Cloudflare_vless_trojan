@@ -4,19 +4,19 @@ import { connect } from "cloudflare:sockets";
 
 // How to generate your own UUID:
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
-let userID = "77a571fb-4fd2-4b37-8596-1b7d9728bb5c";
+let userID = "7065c508-21e5-4e0b-9fa1-3cc1c5f1a100";
 
 const proxyIPs = ["cdn.xn--b6gac.eu.org"]; //ts.hpc.tw workers.cloudflare.cyou bestproxy.onecf.eu.org cdn-all.xn--b6gac.eu.org cdn.xn--b6gac.eu.org
-const cn_hostnames = [''];
-let CDNIP = 'www.visa.com.sg'
+const cn_hostnames = ['node-obz.pool-180-180.dynamic.totinternet.net'];
+let CDNIP = 'node-obz.pool-180-180.dynamic.totinternet.net'
 // http_ip
-let IP1 = 'www.visa.com'
+let IP1 = '203-154-91-212.inter.net.th'
 let IP2 = 'cis.visa.com'
-let IP3 = 'africa.visa.com'
-let IP4 = 'www.visa.com.sg'
-let IP5 = 'www.visaeurope.at'
+let IP3 = 'node-obz.pool-180-180.dynamic.totinternet.net.'
+let IP4 = '119-46-76-169.static.asianet.co.th.'
+let IP5 = '119-46-76-164.static.asianet.co.th.'
 let IP6 = 'www.visa.com.mt'
-let IP7 = 'qa.visamiddleeast.com'
+let IP7 = 'a23-42-57-97.deploy.static.akamaitechnologies.com.'
 
 // https_ip
 let IP8 = 'usa.visa.com'
