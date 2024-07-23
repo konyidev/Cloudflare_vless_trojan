@@ -6,20 +6,20 @@ const proxyIPs = ["cdn.xn--b6gac.eu.org"]; //ts.hpc.tw workers.cloudflare.cyou b
 let cn_hostnames = ['node-obz.pool-180-180.dynamic.totinternet.net'];
 let CDNIP = 'node-obz.pool-180-180.dynamic.totinternet.net'
 // http_ip
-let IP1 = 'www.visa.com'
-let IP2 = 'cis.visa.com'
+let IP1 = 'node-obz.pool-180-180.dynamic.totinternet.net'
+let IP2 = 'node-obz.pool-180-180.dynamic.totinternet.net'
 let IP3 = 'node-obz.pool-180-180.dynamic.totinternet.net'
-let IP4 = 'www.visa.com.sg'
-let IP5 = 'www.visaeurope.at'
-let IP6 = 'www.visa.com.mt'
-let IP7 = 'qa.visamiddleeast.com'
+let IP4 = 'node-obz.pool-180-180.dynamic.totinternet.net'
+let IP5 = 'node-obz.pool-180-180.dynamic.totinternet.net'
+let IP6 = 'node-obz.pool-180-180.dynamic.totinternet.net'
+let IP7 = 'node-obz.pool-180-180.dynamic.totinternet.net'
 
 // https_ip
-let IP8 = 'usa.visa.com'
-let IP9 = 'myanmar.visa.com'
-let IP10 = 'www.visa.com.tw'
-let IP11 = 'www.visaeurope.ch'
-let IP12 = 'www.visa.com.br'
+let IP8 = 'node-obz.pool-180-180.dynamic.totinternet.net'
+let IP9 = 'node-obz.pool-180-180.dynamic.totinternet.net'
+let IP10 = 'node-obz.pool-180-180.dynamic.totinternet.net'
+let IP11 = 'node-obz.pool-180-180.dynamic.totinternet.net'
+let IP12 = 'node-obz.pool-180-180.dynamic.totinternet.net'
 let IP13 = 'www.visasoutheasteurope.com'
 
 // http_port
